@@ -149,7 +149,6 @@ If you find this tool useful and want to support further development, donations 
 
 ## 👤 Author
 
-**TRS-Team**  
 GitHub: [github.com/Kirozaku](https://github.com/Kirozaku)
 
 ---
